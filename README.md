@@ -44,7 +44,7 @@ Hey there! 👋 I'm Faizan A., a student who loves to code and play basketball. 
   <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
   <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
   <br>-📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
-  <br>Feel free to explore my projects and [email me](mailto:faizan.ak.2022@gmail.com) for collaborations!<br>
+  <br>Feel free to explore my projects and email me at [faizan.ak.2022@gmail.com]mailto:faizan.ak.2022@gmail.com) for collaborations!<br>
 </p>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
